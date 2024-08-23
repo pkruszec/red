@@ -1,0 +1,10 @@
+[#README]
+= red
+:revdate: 2024-08-23
+:author: Paweł Kruszec
+:email: pakruszec@gmail.com
+
+Simple text editor.
+
+Not usable yet.
+
